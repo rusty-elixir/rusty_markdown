@@ -1,4 +1,4 @@
-# RustyMarkdown
+# rusty_markdown
 
 Fast rust-powered markdown parser for Elixir.
 
